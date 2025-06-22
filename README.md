@@ -26,7 +26,7 @@ O **Sorteador de Números** é uma aplicação web simples e interativa que perm
    ```bash
    git clone https://github.com/seu-usuario/sorteador-de-numeros.git
 
-##🧠 Aprendizados
+#🧠 Aprendizados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais como:
 
 -Manipulação do DOM com JavaScript;
@@ -37,7 +37,7 @@ Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais co
 
 ---
 
-##📌 Projeto desenvolvido para fins de aprendizado e prática dos conteúdos estudados.  
+#📌 Projeto desenvolvido para fins de aprendizado e prática dos conteúdos estudados.  
 Sinta-se à vontade para explorar, usar e contribuir!
 
 
