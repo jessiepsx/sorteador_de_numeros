@@ -20,24 +20,19 @@ O **Sorteador de Números** é uma aplicação web simples e interativa que perm
 - JavaScript  
 - Google Fonts (Chakra Petch e Inter)
 
-## 🚀 Como Executar Localmente
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/sorteador-de-numeros.git
-
-#🧠 Aprendizados
+## 🧠 Aprendizados
 Durante o desenvolvimento deste projeto, foram aplicados conceitos essenciais como:
 
--Manipulação do DOM com JavaScript;
--Validação de inputs;
--Lógica de geração de números aleatórios;
--Estruturação semântica com HTML;
--Estilização responsiva com CSS.
+- Manipulação do DOM com JavaScript;
+- Validação de inputs;
+- Lógica de geração de números aleatórios;
+- Estruturação semântica com HTML;
+- Estilização responsiva com CSS.
 
 ---
 
-#📌 Projeto desenvolvido para fins de aprendizado e prática dos conteúdos estudados.  
+### 📌 Projeto desenvolvido para fins de aprendizado e prática dos conteúdos estudados.  
 Sinta-se à vontade para explorar, usar e contribuir!
 
 
